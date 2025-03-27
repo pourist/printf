@@ -10,8 +10,8 @@ It handles formatted output conversion and demonstrates usage of variadic functi
 ## Usage
 
 ```bash
-git clone https://github.com/yourusername/ft_printf.git
-cd ft_printf
+git clone https://github.com/pourist/printf.git
+cd  printf
 make
 ```
 
